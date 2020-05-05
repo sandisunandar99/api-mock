@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "username": "test1",
+      "email": "test1@test1.com",
+      "password": "test1",
+      "id": "1581063821147",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGVzdDEiLCJpYXQiOjE1ODEwNjM4MjEsImV4cCI6MTU4MTE1MDIyMX0.reowZve3XS_Cehf4tXcFiAuLvuegbJ1QCU0Uqbgbnyo"
+    },
+    {
+      "username": "test3",
+      "email": "test3@test3.com",
+      "password": "test3",
+      "id": "1581395675243",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGVzdDMiLCJpYXQiOjE1ODEzOTU2NzUsImV4cCI6MTU4MTQ4MjA3NX0.iHozYJfJdiBKj-tPbXAEKyAdN4tdeORBKtBPActt7M8"
+    },
+    {
+      "username": "test4",
+      "email": "test4@test4.com",
+      "password": "test4",
+      "id": "1581395858848",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGVzdDQiLCJpYXQiOjE1ODEzOTU4NTgsImV4cCI6MTU4MTQ4MjI1OH0.wWCZWTsVF1iWwG5WNq-q5wGcK9qePtdqtZARDG02Wj0"
+    },
+    {
+      "username": "test5",
+      "email": "test5@test5.com",
+      "password": "test5",
+      "id": "1581404548183",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGVzdDUiLCJpYXQiOjE1ODE0MDQ1NDgsImV4cCI6MTU4MTQ5MDk0OH0.5H_dDrd1RBnQ9QI71wjm_HXqs75nVx6MV9szfwDwWoU"
+    }
+  ],
+  "surveys": [
+    {
+      "survey_name": "Test sandi",
+      "category": "sekolah",
+      "using_for": "public",
+      "description": "nananannanana nananannanana nananannanananananannanana nananannanana nananannanana nananannanana",
+      "introduction": "selamat datang di wakwaka land",
+      "periode_start": "01-01-2020 07:00:00",
+      "periode_end": "10-01-2020 07:00:00",
+      "respondent_target": 1000,
+      "status": "Draft",
+      "id": "1581073246746",
+      "created_at": 1581073246746,
+      "respondent_input": null
+    },
+    {
+      "survey_name": "Test toto",
+      "category": "pribadi",
+      "using_for": "privat",
+      "description": "nananannanana nananannanana nananannanananananannanana nananannanana nananannanana nananannanana",
+      "introduction": "selamat datang di wakwaka land",
+      "periode_start": "01-01-2020 07:00:00",
+      "periode_end": "10-01-2020 07:00:00",
+      "respondent_target": 1000,
+      "status": "Draft",
+      "id": "1581087789040",
+      "created_at": 1581087789040,
+      "respondent_input": null
+    },
+    {
+      "survey_name": "pisang goreng",
+      "category": "pribadi",
+      "using_for": "privat",
+      "description": "nananannanana nananannanana nananannanananananannanana nananannanana nananannanana nananannanana",
+      "introduction": "selamat datang di wakwaka land",
+      "periode_start": "01-01-2020 07:00:00",
+      "periode_end": "10-01-2020 07:00:00",
+      "respondent_target": 1000,
+      "status": "Draft",
+      "id": "1581088139360",
+      "created_at": 1581088139360,
+      "respondent_input": null
+    },
+    {
+      "survey_name": "tahu bulat",
+      "category": "sekolah",
+      "using_for": "public",
+      "description": "nananannanana nananannanana nananannanananananannanana nananannanana nananannanana nananannanana",
+      "introduction": "selamat datang di wakwaka land",
+      "periode_start": "01-01-2020 07:00:00",
+      "periode_end": "10-01-2020 07:00:00",
+      "respondent_target": 1000,
+      "status": "Draft",
+      "id": "1581088157966",
+      "created_at": 1581088157966,
+      "respondent_input": null
+    },
+    {
+      "survey_name": "tahu buyatax",
+      "category": "pribadi",
+      "using_for": "privat",
+      "description": "nananannanana nananannanana nananannanananananannanana nananannanana nananannanana nananannanana",
+      "introduction": "selamat datang di wakwaka land",
+      "periode_start": "01-01-2020 07:00:00",
+      "periode_end": "10-01-2020 07:00:00",
+      "respondent_target": 1000,
+      "status": "Draft",
+      "id": "1581396189627",
+      "created_at": 1581396189627,
+      "respondent_input": null,
+      "author": "ujang mamat"
+    }
+  ]
+}
