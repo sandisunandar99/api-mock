@@ -1,8 +1,8 @@
-# survey-backend-mock
+# API-mock
 
 
 `$ docker-compose up --build`
 
-atau di local 
+run with local
 
 `$ node index.js`
