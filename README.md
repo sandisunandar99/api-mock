@@ -1,10 +1,14 @@
 # API-mock
 
-stack using :
+## stack using :
+
 express
+
 json-server
+
 lowdb
 
+============================================
 
 `$ docker-compose up --build`
 
